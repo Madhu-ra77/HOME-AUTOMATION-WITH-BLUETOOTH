@@ -47,7 +47,7 @@ While Bluetooth offers numerous advantages, it does have some limitations. The p
 conclusion:
 Bluetooth-based home automation offers a simple, affordable way to control devices like lights, locks, and thermostats. It is energy-efficient and easy to use but has limitations such as a short range and potential security concerns. While not as advanced as other smart home technologies, Bluetooth is ideal for smaller setups and will likely become more impactful as the technology improves.
 
-** output of the task**
+**output of the task**
 
 ![Image](https://github.com/user-attachments/assets/eb0625de-c233-47f8-9e80-ea9206c95e0d)
 
